@@ -1,7 +1,6 @@
 # radiko-simple-recorder
 
-A simple bash script to record live radiko.jp broadcasts.
-radikoの生放送を簡単に録音するためのシンプルなbashスクリプトです。
+A simple bash script to record live radiko.jp broadcasts. / radikoの生放送を簡単に録音するためのシンプルなbashスクリプトです。
 
 ## Features / 特徴
 - Record any radiko live stream easily / 保存先フォルダを自由に指定可能
